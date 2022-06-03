@@ -1,3 +1,3 @@
 # web1
-Demo Ecommerce site.
+Demo Ecommerce site.(Homepage)
 Final result : https://hamrofurniture.netlify.app/
